@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Vinsens S
-- 👀 I’m interested in backend development, mainly the ones using Golang. AI is pretty cool too, I'd like to do some at one day
+- 👋 Hi, I’m Vinsens!
+- 👀 I’m interested in backend development, mainly the ones using Golang. AI seems cool too, I'd like to do some AI thingamajig one day...
 - 🌱 I’m currently (still) learning Golang. It's been an amazing learning experience with this programming language!
 - 💞️ I’m looking to collaborate on open source projects with Golang, or maybe Python, and maybe a little bit of Java
 - 📫 How to reach me:
